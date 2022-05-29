@@ -1,0 +1,4 @@
+repo: 8ba995b74e18334ab3707f27e9eb8f4e37ba3d29
+node: 463b3c968d28de99d0fb76e0254e94024a7b5d9b
+branch: default
+tag: FIREFOX_NIGHTLY_101_END
